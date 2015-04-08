@@ -1,9 +1,3 @@
-
-
-
-
-
-
 <!-- Features -->
   <div id="features-wrapper">
     <section id="features" class="container">
